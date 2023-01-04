@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">The News</string>
+    <string name="image_description">Zelenky and Biden</string>
+    <string name="news_title">Zelensky chega à Casa Branca para encontro com Biden</string>
+    <string name="news_date">22/12/22</string>
+    <string name="news_description">O presidente ucraniano, Volodymyr Zelensky, chegou à Casa Branca para se encontrar com o presidente dos Estados Unidos, Joe Biden, nesta quarta-feira, 21. Ele foi recebido por Biden e pela primeira-dama, Jill Biden.</string>
+
+    <string name="image_description1">Argentina</string>
+    <string name="news_title1">Argentina é campeã da Copa do Mundo 2022</string>
+    <string name="news_date1">18/12/22</string>
+    <string name="news_description1">Os argentinos deixam para trás Uruguai e França, com duas taças, e ficam somente uma atrás de Alemanha e Itália. Espanha e Inglaterra venceram uma vez.</string>
+
+    <string name="image_description2">Work</string>
+    <string name="news_title2">Brasileiros passam cerca de 20% da vida trabalhando</string>
+    <string name="news_date2">23/12/22</string>
+    <string name="news_description2">O brasileiro trabalha, em média, 1737 horas por ano, mais que o japonês (1729 horas), o canadense (1703 horas) e o italiano (1719 horas). Isso corresponde a 20% do tempo total de vida de uma pessoa em um ano – sem contar o tempo gasto no deslocamento entre a casa e o local de trabalho. Por isso, no Dia Internacional do Trabalhador (1/5), o Instituto Akatu calculou o tempo de trabalho gasto pelo brasileiro de renda média para comprar alguns itens.</string>
+
+    <string name="news_author">Yuri Baza</string>
+    <string name="news_btn_next">Próximo</string>
+    <string name="news_btn_prev">Anterior</string>
+</resources>

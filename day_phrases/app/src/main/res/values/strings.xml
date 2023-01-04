@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">day_phrases</string>
+    <string name="logo_description">logo</string>
+    <string name="main_screen_button_content">Sortear frase</string>
+    <string name="str_title">E a frase é</string>
+    <string name="str_phrase">Frase motivacional aqui</string>
+</resources>
